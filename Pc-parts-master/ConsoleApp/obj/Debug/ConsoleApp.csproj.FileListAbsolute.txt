@@ -1,0 +1,40 @@
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\bin\Debug\Entities.dll
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\bin\Debug\Entities.pdb
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\Entities.dll
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\Entities.pdb
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\andre\Downloads\Pc-Parts-Homework-master\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\Entities.dll
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\bin\Debug\Entities.pdb
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\bin\Debug\Entities.dll
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\bin\Debug\Entities.pdb
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\ConsoleApp\obj\Debug\ConsoleApp.pdb

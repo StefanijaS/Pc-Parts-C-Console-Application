@@ -1,0 +1,18 @@
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\bin\Debug\Entities.dll
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\bin\Debug\Entities.pdb
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.dll
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.pdb
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\Entities\bin\Debug\Entities.dll
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\Entities\bin\Debug\Entities.pdb
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\Entities\obj\Debug\Entities.dll
+C:\Users\andre\Desktop\Pc-Parts-Homework-master (3)\Pc-Parts-Homework-master\Entities\obj\Debug\Entities.pdb
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\Entities\bin\Debug\Entities.dll
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\Entities\bin\Debug\Entities.pdb
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\Entities\obj\Debug\Entities.dll
+C:\Users\andrej.boshkoski\Downloads\Pc-parts-master\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,8 @@
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\bin\Debug\Services.dll
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\bin\Debug\Services.pdb
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\bin\Debug\Services.dll.CodeAnalysisLog.xml
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\bin\Debug\Services.dll.lastcodeanalysissucceeded
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.dll
+C:\Users\andre\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.pdb
